@@ -5,7 +5,7 @@ I'm currently a Computer Science student at Yale University. I've immersed mysel
 ## Skills & Certifications 🛠️
 - **Programming Languages**: C/C++, Java, Python, JavaScript, R, HTML/CSS, Swift, SQL
 - **Frameworks/Technologies**: React, Flask, Git, Unity, Matlab, Spring, Figma
-- **Certifications**: IBM, Building AI Apps with Flask, Intro to Web APIs, Codepath Advanced Technical Interview Prep
+- **Certifications**: IBM Building AI Apps with Flask, Intro to Web APIs, Codepath Advanced Technical Interview Prep
 
 ## Currently Learning 🌱
 I am currently diving deeper into API development architectures like GraphQL but am proficient with REST. My focus is on mastering Flask and exploring AWS cloud infrastructures to build scalable and efficient applications.
