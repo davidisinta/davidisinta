@@ -11,15 +11,8 @@ I'm currently a Computer Science student at Yale University. I've immersed mysel
 I am currently diving deeper into API development architectures like GraphQL but am proficient with REST. My focus is on mastering Flask and exploring AWS cloud infrastructures to build scalable and efficient applications.
 
 ## Contact & Socials 📬
-- Location: New Haven, CT
-- Email: david.isinta@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/davidnyakawa/)
-- [Portfolio](https://www.davidnyakawa.com/)
+- Location: New Haven, CT  - Email: david.isinta@gmail.com  - [LinkedIn](https://www.linkedin.com/in/davidnyakawa/)  - [Portfolio](https://www.davidnyakawa.com/)
 
-## Leadership & Affiliations 👥
-- Proud Community Member at CodePath, where I'm continuously learning and growing with a vibrant community of developers.
-
-Let's connect! Whether it's collaborating on projects, sharing knowledge, or just chatting about the latest in tech, I'm always open to new connections and opportunities.
 
 <!--
 **davidisinta/davidisinta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
