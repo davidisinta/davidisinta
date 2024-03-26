@@ -4,7 +4,7 @@ I'm currently a Computer Science student at Yale University. I've immersed mysel
 
 ## Skills & Certifications 🛠️
 - **Programming Languages**: C/C++, Java, Python, JavaScript, R, HTML/CSS, Swift, SQL
-- **Frameworks/Technologies**: React, Flask, Git, Unity, Matlab, Spring, Springboot, Node.js FastAPI, Figma, rabbitMQ, Postman
+- **Frameworks/Technologies**: React, Flask, Git, Unity, Matlab, Spring, Springboot, Node.js, FastAPI, Figma, rabbitMQ, Postman
 - **Certifications**: IBM Building AI Apps with Flask, Intro to Web APIs, Codepath Advanced Technical Interview Prep
 
 ## Currently Learning 🌱
