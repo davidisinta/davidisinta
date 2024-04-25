@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidisinta&label=Profile%20views&color=0e75b6&style=flat" alt="davidisinta" /> </p>
 
-- 🔭 I’m currently working on **building AI powered, mental health apps to help provide college students with mental health facilities**
+- 🔭 I’m currently working on **building an AI powered app to help provide Yale college students get better access to mental health facilities on campus**
 
 - 👨‍💻 check out my portfolio at [https://www.davidnyakawa.com/](https://www.davidnyakawa.com/)
 
