@@ -7,7 +7,7 @@
 
 - 👨‍💻 check out my portfolio at [https://www.davidnyakawa.com/](https://www.davidnyakawa.com/)
 
-- 💬 Ask me about **FastAPI, React, SpringBoot**
+- 💬 Ask me about **FastAPI, React.js, SpringBoot, Swift**
 
 - 📫 How to reach me **david.isinta@gmail.com**
 
