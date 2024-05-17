@@ -16,6 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidisinta&show_icons=true&locale=en&layout=compact" alt="davidisinta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidisinta&show_icons=true&locale=en" alt="davidisinta" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidisinta&" alt="davidisinta" /></p>
