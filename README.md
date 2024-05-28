@@ -1,8 +1,6 @@
 <h1 align="center">Hey thereee 👋, I'm David Isinta</h1>
 <h3 align="center">I'm a fullstack web developer & computer science student at Yale University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidisinta&label=Profile%20views&color=0e75b6&style=flat" alt="davidisinta" /> </p>
-
 - 🔭 I’m currently working on **building Chesco, your AI fitness and diet assistant.**
 
 - 👨‍💻 check out my portfolio at [https://www.davidnyakawa.com/](https://www.davidnyakawa.com/)
