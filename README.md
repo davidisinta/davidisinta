@@ -1,7 +1,7 @@
 <h1 align="center">Hey thereee 👋, I'm David Isinta</h1>
 <h3 align="center">I'm a fullstack web developer & computer science student at Yale University</h3>
 
-- 🔭 I’m currently working on **building Chesco, your AI fitness and diet assistant.**
+- 🔭 I’m currently working on **building Healthy Way, your AI diet assistant & personal Nutritionist.**
 
 - 👨‍💻 check out my portfolio at [https://www.davidnyakawa.com/](https://www.davidnyakawa.com/)
 
