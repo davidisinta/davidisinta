@@ -5,7 +5,7 @@
 
 - 👨‍💻 check out my portfolio at [https://www.davidnyakawa.com/](https://www.davidnyakawa.com/)
 
-- 💬 Ask me about **FastAPI, SpringBoot, Swift**
+- 💬 Ask me about **Java, Dlang, C++**
 
 - 📫 How to reach me **david.isinta@gmail.com**
 
