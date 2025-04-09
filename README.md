@@ -1,5 +1,5 @@
-<h1 align="center">Hey thereee 👋, I'm David Isinta Nyakawa</h1>
-<h3 align="center">I'm a fullstack web developer & computer science student at Yale University</h3>
+<h1 align="center">Hey thereee 👋, I'm David Nyakawa</h1>
+<h3 align="center">I'm a computer science student at Yale University</h3>
 
 - 🔭 I’m currently working on **building Healthy Way, your AI diet assistant & personal Nutritionist.**
 
