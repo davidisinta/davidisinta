@@ -1,23 +1,55 @@
-<h1 align="center">Hey thereee 👋, I'm David Nyakawa</h1>
-<h3 align="center">I'm a computer science student at Yale University</h3>
+<h1 align="center">Hey there 👋, I'm David Nyakawa</h1>
+<h3 align="center">Computer Science Student at Yale University</h3>
 
-- 👨‍💻 check out my portfolio at [https://www.davidnyakawa.com/](https://www.davidnyakawa.com/)
+<p align="center">
+  <a href="https://www.davidnyakawa.com/">Portfolio</a> •
+  <a href="mailto:david.isinta@gmail.com">Email</a>
+</p>
 
-- 💬 Ask me about **Java, Dlang, C++**
+---
 
-- 📫 How to reach me **david.isinta@gmail.com**
+## About Me
 
-Hey there! I'm David, a Computer Science student at Yale with a deep passion for building software that tackles real-world challenges and brings creative ideas to life.
+I'm a computer science student at Yale passionate about building software that solves real-world problems and brings creative ideas to life. My work spans backend systems, AI, game development, and graphics programming.
 
-My experience spans a wide range of domains:
-🔙 Backend Development: Built scalable applications using Java Spring Boot, Flask, and FastAPI.
-🤖 AI Engineering: Developed chatbots powered by Retrieval-Augmented Generation (RAG) to help users retrieve private data with speed and accuracy.
-🎮 Game Development: Designed and implemented a 2D game engine from scratch using SDL and the D programming language.
-⿳ Graphics Programming: Explored the fundamentals of 3D rendering and real-time graphics.
-📱Mobile App Development: Created Swift-based iOS applications.
-🔓Open Source: Contributor to the Phobos standard library of the D programming language.
+---
 
-Top Languages: Java · Python · C++ · D · C · Swift · JavaScript
+## Technical Experience
 
-When I'm not writing code, you'll probably find me watching soccer. Always open to collaboration, learning, and exploring what's next!
+- **Backend Development**  
+  Scalable systems using Java Spring Boot, Flask, and FastAPI
 
+- **AI Engineering**  
+  Retrieval-Augmented Generation (RAG) chatbots for fast, accurate access to private data
+
+- **Game Development**  
+  Built a 2D game engine from scratch using SDL and the D programming language
+
+- **Graphics Programming**  
+  Explored 3D rendering and real-time graphics fundamentals
+
+- **Mobile Development**  
+  iOS applications built with Swift
+
+- **Open Source**  
+  Contributor to the Phobos standard library (D language)
+
+---
+
+## Languages
+
+`Java` · `Python` · `C++` · `D` · `C` · `Swift` · `JavaScript`
+
+---
+
+## Interests
+
+Outside of coding, I enjoy watching soccer and exploring new ideas in tech.  
+Always open to collaboration and learning opportunities.
+
+---
+
+## Contact
+
+- Email: david.isinta@gmail.com
+- Portfolio: https://www.davidnyakawa.com/
