@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm David Nyakawa</h1>
+<!-- <h1 align="center">Hey there 👋, I'm David Nyakawa</h1>
 <h3 align="center">Computer Science Student at Yale University</h3>
 
 <p align="center">
@@ -52,4 +52,28 @@ Always open to collaboration and learning opportunities.
 ## Contact
 
 - Email: david.isinta@gmail.com
-- Portfolio: https://www.davidnyakawa.com/
+- Portfolio: https://www.davidnyakawa.com/ -->
+
+
+<h1 align="center">David Nyakawa</h1>
+<p align="center">Computer Science @ Yale • Backend • AI • Systems</p>
+
+<p align="center">
+  <a href="https://www.davidnyakawa.com/">Portfolio</a> •
+  <a href="mailto:david.isinta@gmail.com">Email</a>
+</p>
+
+---
+
+Backend and systems-focused developer with experience in AI, game engines, and graphics.
+
+**Stack**  
+Java · Python · C++ · D · C · Swift · JavaScript
+
+**Highlights**  
+- Scalable backend systems (Spring Boot, Flask, FastAPI)  
+- RAG-based AI applications  
+- 2D game engine built with SDL (D language)  
+- Graphics and rendering fundamentals  
+- iOS apps in Swift  
+- Contributor to D’s Phobos standard library
